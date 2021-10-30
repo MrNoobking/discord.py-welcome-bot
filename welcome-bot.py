@@ -16,7 +16,7 @@ async def on_ready():
     print('-----')
  # Customise the message below to what you want to send new users!
 newUserMessage = """
-You
+You babi get hacked 
 can
 put
 your
